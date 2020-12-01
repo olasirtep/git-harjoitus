@@ -9,9 +9,9 @@ Jokaisen tehtävän jälkeen tee commit ja push, eli tallennat tekemäsi muutoks
 1. Merkitse alla olevaan listaan tekemäsi tehtävät
 
 - [x] Olen lukenut tämän ohjetiedoston
-- [] Olen tehnyt tehtävän X
-- [] Olen tehnyt tehtävän X
-- [] Olen tehnyt tehtävän X
+- [ ] Olen tehnyt tehtävän X
+- [ ] Olen tehnyt tehtävän X
+- [ ] Olen tehnyt tehtävän X
 
 ## Mikä tämä tiedosto on?
 Tämä tässä on README-tiedosto, joka tyypillisesti lisätään jokaiseen projektiin. Se näkyy automaattisesti avonaisena GitHubissa projektin pääsivulla tiedostojen alapuolella.
