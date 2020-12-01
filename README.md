@@ -1,6 +1,18 @@
 # Git harjoitus
 Tämä on valmiiksi olemassa oleva repository, jota käytät tässä versionhallinnan harjoituksessa pohjana. GitHub Classroom on luonut sinulle henkilökohtaisen kopion tästä reposta, jonka voit seuraavaksi kloonata omalle koneellesi.
 
+## Tehtävät
+Jokaisen tehtävän jälkeen tee commit ja push, eli tallennat tekemäsi muutokset Git-versionhallintaan (*commit*) ja sitten julkaiset ne GitHubiin (*push*).
+1. Tehtävän ohjeet löydät tehtävän kansiosta
+1. Tehtyäsi tehtävän tee commit
+1. Lopuksi julkaise muutokset GitHubiin (push-komento)
+1. Merkitse alla olevaan listaan tekemäsi tehtävät
+
+- [x] Olen lukenut tämän ohjetiedoston
+- [] Olen tehnyt tehtävän X
+- [] Olen tehnyt tehtävän X
+- [] Olen tehnyt tehtävän X
+
 ## Mikä tämä tiedosto on?
 Tämä tässä on README-tiedosto, joka tyypillisesti lisätään jokaiseen projektiin. Se näkyy automaattisesti avonaisena GitHubissa projektin pääsivulla tiedostojen alapuolella.
 
