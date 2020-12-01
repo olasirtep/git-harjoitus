@@ -1,7 +1,7 @@
 # Git harjoitus
 Tämä on valmiiksi olemassa oleva repository, jota käytät tässä versionhallinnan harjoituksessa pohjana. GitHub Classroom on luonut sinulle henkilökohtaisen kopion tästä reposta, jonka voit seuraavaksi kloonata omalle koneellesi.
 
-## Mikä tämä on?
+## Mikä tämä tiedosto on?
 Tämä tässä on README-tiedosto, joka tyypillisesti lisätään jokaiseen projektiin. Se näkyy automaattisesti avonaisena GitHubissa projektin pääsivulla tiedostojen alapuolella.
 
 ## Markdown merkintäkieli
@@ -11,13 +11,17 @@ Tutustu lisää merkintäkielen käyttöön: https://guides.github.com/features/
 
 Markdown kielellä voit esimerkiksi:
 * Luoda listoja
-* Lisätä hyperlinkkejä [Hyrian kotisivut](https://www.hyria.fi/)
-* Eri tasoisia otsikoita
+* Muotoiltua tekstiä: *kursiivi*, **lihavoitu**, ~~yliviivattu~~
+* Lisätä hyperlinkkejä, esim. [Hyrian kotisivut](https://www.hyria.fi/)
+* Tehdä eri tasoisia otsikoita
 * Lisätä kuvia
-* Käyttää hymiöitä
+* Käyttää hymiöitä :smiley: :bomb: :dash: :dizzy:
 * Lisätä kommenttiin syntaksikorostettua koodia, esim.
 ```php
 <?php
+    // Tässä esimerkki yksinkertaisesta PHP-koodista
     echo 'Hello World!';
 ?>
 ```
+
+![Hyria logo](https://www.hyria.fi/files/15315/Hyria_black.jpg)
