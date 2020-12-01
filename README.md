@@ -37,5 +37,3 @@ Markdown kielellä voit esimerkiksi:
     echo 'Hello World!';
 ?>
 ```
-
-![Hyria logo](https://www.hyria.fi/files/15315/Hyria_black.jpg)
