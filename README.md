@@ -3,10 +3,13 @@ Tämä on valmiiksi olemassa oleva repository, jota käytät tässä versionhall
 
 ## Tehtävät
 Jokaisen tehtävän jälkeen tee commit ja push, eli tallennat tekemäsi muutokset Git-versionhallintaan (*commit*) ja sitten julkaiset ne GitHubiin (*push*).
+1. Kloonaa repository omalle koneellesi
 1. Tehtävän ohjeet löydät tehtävän kansiosta
 1. Tehtyäsi tehtävän tee commit
 1. Lopuksi julkaise muutokset GitHubiin (push-komento)
 1. Merkitse alla olevaan listaan tekemäsi tehtävät
+
+**Älä siis muokkaa tiedostoja GitHubissa vaan aloita kloonaamalla repository omalle koneellesi, tee muutokset valitsemallasi tekstieditorilla ja julkaise sitten tallentamasi muutokset GitHubiin joko Gitin komentorivikomennolla, GitHub Desktopilla tai esim. VS Coden kautta**
 
 - [x] Olen lukenut tämän ohjetiedoston
 - [ ] Olen tehnyt tehtävän X
