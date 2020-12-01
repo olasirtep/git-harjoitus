@@ -34,6 +34,7 @@ buzz
 fizz
 13
 14
-fizzbuzz```
+fizzbuzz
+```
 
 Apua tehtävän ymmärtämiseen ja ratkaisun hakemiseen saat esimerkiksi tästä Tom Scottin videosta: https://www.youtube.com/watch?v=QPZ0pIK_wsc
