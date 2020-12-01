@@ -1,3 +1,6 @@
+
+![Git logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/320px-Git-logo.svg.png)
+
 # Git harjoitus
 Tämä on valmiiksi olemassa oleva repository, jota käytät tässä versionhallinnan harjoituksessa pohjana. GitHub Classroom on luonut sinulle henkilökohtaisen kopion tästä reposta, jonka voit seuraavaksi kloonata omalle koneellesi.
 
