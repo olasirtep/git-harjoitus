@@ -38,4 +38,4 @@ Markdown kielellä voit esimerkiksi:
 ?>
 ```
 
-![yoda](https://imgflip.com/i/4ojbpd)
+![yoda](https://www.tavastiasoft.fi/wp-content/uploads/2020/12/4ojbpd.jpg)
