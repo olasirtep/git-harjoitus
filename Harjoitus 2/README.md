@@ -20,7 +20,8 @@ Tee ns. FizzBuzz-ohjelma. Kyseessä on perinteinen työhaastatteluissa käytetty
 Ohjelma tulostaa lukuja järjestyksessä vaikkapa välillä 1-100, jos tulostettava luku on jaollinen kolmella tulostaa ohjelma **fizz**, jos luku on jaollinen viidellä tulostetaan **buzz**, mikäli luku on jaollinen kummallakin luvulla, tulostaa ohjelma **fizzbuzz**.
 
 Esimerkki ohjelman tulosteesta:
-```1
+```
+1
 2
 fizz
 4
