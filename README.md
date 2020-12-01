@@ -12,7 +12,7 @@ Jokaisen tehtävän jälkeen tee commit ja push, eli tallennat tekemäsi muutoks
 1. Lopuksi julkaise muutokset GitHubiin (push-komento)
 1. Merkitse alla olevaan listaan tekemäsi tehtävät
 
-**Älä siis muokkaa tiedostoja GitHubissa vaan aloita kloonaamalla repository omalle koneellesi, tee muutokset valitsemallasi tekstieditorilla ja julkaise sitten tallentamasi muutokset GitHubiin joko Gitin komentorivikomennolla, GitHub Desktopilla tai esim. VS Coden kautta**
+>**Älä siis muokkaa tiedostoja GitHubissa vaan aloita kloonaamalla repository omalle koneellesi, tee muutokset valitsemallasi tekstieditorilla ja julkaise sitten tallentamasi muutokset GitHubiin joko Gitin komentorivikomennolla, GitHub Desktopilla tai esim. VS Coden kautta**
 
 - [x] Olen lukenut tämän ohjetiedoston
 - [ ] Olen tehnyt tehtävän X
